@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Elegy on James Scot, late Duke of Monmouth</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38853</idno>
+            <idno type="STC">Wing E357</idno>
+            <idno type="STC">ESTC R36167</idno>
+            <idno type="EEBO-CITATION">15613682</idno>
+            <idno type="OCLC">ocm 15613682</idno>
+            <idno type="VID">104138</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38853)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104138)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1590:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Elegy on James Scot, late Duke of Monmouth</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C.W. and are to be sold by Walter Davis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>"This may be printed, July 16. 1685. R.L.S."</note>
+                  <note>Within mourning border.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:104138:1"/>
+            <head>AN ELEGY ON JAMES SCOT, Late Duke of MONMOUTH.</head>
+            <lg>
+               <l>THOU Plague, and Bane of Mortals, <hi>Flattery,</hi>
+               </l>
+               <l>Of Humane-kind, half are undone by Thee.</l>
+               <l>How is th' Unfortunate Wrack't Merchant loſt?</l>
+               <l>From thy falſe Hope of ſome Rich <hi>Indian</hi> Coaſt,</l>
+               <l>Betray'd by Thee, to periſh in a Wave;</l>
+               <l>Thine the hid Rock, and Thine his watry Grave.</l>
+               <l>Why does the Traytor Plot, or Rebel Storm,</l>
+               <l>And Canting Zealots <hi>Church</hi> and <hi>State</hi> Reform?</l>
+               <l>Led only by Thy Viſionary Dreams;</l>
+               <l>Till in perſuit of Crowns and Diadems,</l>
+               <l>With many a Reſtleſs Night and tugging Groan,</l>
+               <l>They mount a <hi>Scaffold</hi> whilſt they ſeek a <hi>Throne.</hi>
+               </l>
+               <l>Nor by Thee only loaded <hi>Gibbets</hi> bow,</l>
+               <l>And yawning <hi>Graves</hi> attend Thy <hi>Fatal Blow;</hi>
+               </l>
+               <l>For even by Thee <hi>Aſpiring Angels</hi> fell<g ref="char:punc">▪</g>
+               </l>
+               <l>Falſe Hopes of <hi>Heaven</hi> made the firſt ſtep to <hi>Hell.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Such, <hi>Monmouth,</hi> was Thy Fall; this Tempter ſtood,</l>
+               <l>
+                  <hi>Poyſoning</hi> thy <hi>Ear,</hi> and cank'ring all thy Blood;</l>
+               <l>To thy <hi>Fond Eye</hi> with <hi>Artful Phantoms</hi> fill'd</l>
+               <l>The Treacherous <hi>Magnifying Mirrour</hi> held;</l>
+               <l>Show'd a poor <hi>Shrub</hi> a Royal <hi>Cedar-Plant,</hi>
+               </l>
+               <l>And beautifi'd thy Glaſs to <hi>Adamant.</hi>
+               </l>
+               <l>Here, poor loſt <hi>Monmouth,</hi> lay the Fatal Snare,</l>
+               <l>Thy <hi>Life,</hi> thy <hi>Fame,</hi> thy <hi>All,</hi> were Ship wrackt here.</l>
+               <l>Once the <hi>Bright Leader</hi> of a <hi>Shining Train,</hi>
+               </l>
+               <l>The <hi>Conſtellations</hi> in Great <hi>CHARLES</hi> his <hi>Waine;</hi>
+               </l>
+               <l>Till from thy Forfeit glittering Orb of <hi>Light,</hi>
+               </l>
+               <l>By <hi>Black Ingratitude,</hi> t'Eternal <hi>Night,</hi>
+               </l>
+               <l>Too Juſtly doom'd, and down all headlong driven,</l>
+               <l>A <hi>Falling-Star</hi> from thy once Native <hi>Heaven.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>On what Foundation does <hi>Ambition</hi> riſe?</l>
+               <l>In all its Luſter, Crown'd with <hi>Victories,</hi>
+               </l>
+               <l>Yet cemented with <hi>Blood,</hi> By <hi>Treaſon</hi> built,</l>
+               <l>An <hi>Airy</hi> Glory rais'd on <hi>Solid</hi> Guilt:</l>
+               <l>But Cruſh'd and Damn'd by <hi>Heav'ns</hi> revenging Hand,</l>
+               <l>To <hi>Publick Shame,</hi> and an <hi>Eternal Brand:</hi>
+               </l>
+               <l>What a dull Page in the Black-Book of <hi>Fame</hi>
+               </l>
+               <l>Will <hi>Monmouth</hi> fill with a <hi>poor Blaſted Name?</hi>
+               </l>
+               <l>Where's all th' <hi>Hoſannah's</hi> of the <hi>Shouting Crowd?</hi>
+               </l>
+               <l>Will their kind <hi>Sorrows</hi> ſpeak but half ſo loud?</l>
+               <l>No! wretched Thing, that <hi>Popular</hi> Wind's blown o'er:</l>
+               <l>
+                  <hi>HEAVEN</hi> and Great <hi>JAMES</hi> do their <hi>loſt Senſe</hi> reſtore,</l>
+               <l>And the old <hi>Prince o'th' Air</hi> now reigns no more.</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nmourn'd</hi> farewel, thy Hearſe even unbedew'd</l>
+               <l>By thy own once <hi>Adoring Multitude.</hi>
+               </l>
+               <l>And if a Tear falls from a <hi>pittying Eye,</hi>
+               </l>
+               <l>The Mournful Cauſe does that ſad Drop ſupply,</l>
+               <l>Is not thou dyed'ſt, but didſt <hi>deſerve</hi> to Die.</l>
+               <l>
+                  <hi>Deſerv'd</hi> indeed: for never Man <hi>poſſeſt</hi>
+               </l>
+               <l>Of ſuch vaſt <hi>Royal Smiles,</hi> ſo <hi>rais'd,</hi> ſo <hi>bleſt,</hi>
+               </l>
+               <l>
+                  <hi>Apoſtatiz'd</hi> like Thee.—</l>
+               <l>Nay, even thy <hi>Tears</hi> had learn'd to forge ſo well,</l>
+               <l>That when at <hi>CHARLES</hi> and <hi>JAMES</hi>'s Feet they fell,</l>
+               <l>Thy very <hi>Penitence</hi> play'd the <hi>Infidel.</hi>
+               </l>
+               <l>So fal'n from Faith, thou turn'dſt Perfideous too,</l>
+               <l>Even to thy own aſſiſting <hi>Rebel Crew;</hi>
+               </l>
+               <l>Whilſt thy <hi>Argyle</hi> and <hi>Rumbold</hi>'s lateſt Breath</l>
+               <l>Damn'd thy <hi>falſe Vows</hi> and Curſt Thee even in <hi>Death.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But let thy Buried Faults <hi>forgotten</hi> lie,</l>
+               <l>And <hi>Monmouth</hi>'s Crimes with bleeding <hi>Monmouth</hi> die.</l>
+               <l>And to allow Thee ſtill thy <hi>Juſt Applauſe,</hi>
+               </l>
+               <l>We'll praiſe thy <hi>Valour,</hi> though we loath thy <hi>Cauſe.</hi>
+               </l>
+               <l>Nay, and to make thy Fame yet larger Room,</l>
+               <l>And ſtrew <hi>ſome Sweets</hi> even on a <hi>Rebel's Tomb;</hi>
+               </l>
+               <l>Thy <hi>Storm</hi> but roſe to drive our <hi>Clouds</hi> away,</l>
+               <l>And thy <hi>Black Morn</hi> began our <hi>Halcyon Day.</hi>
+               </l>
+               <l>Whilſt <hi>Thy Rebellion</hi> does <hi>our Bliſs</hi> compleat,</l>
+               <l>A Kingdom <hi>Happy</hi> made, and Monarch <hi>Great;</hi>
+               </l>
+               <l>For <hi>Treaſon</hi>'s to Eternal <hi>Silence doom'd,</hi>
+               </l>
+               <l>And <hi>grinning Faction</hi> in thy <hi>
+                     <g ref="char:V">Ʋ</g>rne entomb'd;</hi>
+               </l>
+               <l>Whilſt <hi>Angels</hi> to Great <hi>JAMES</hi> his Guard move down,</l>
+               <l>And <hi>Jacob's Ladder</hi> waits on <hi>Caeſar's Crown.</hi>
+               </l>
+               <l>Some Honour then is even to Treaſon due;</l>
+               <l>So <hi>Judas</hi>'s <hi>Crime</hi> ſome <hi>Glory</hi> challeng'd too.</l>
+               <l>Whilſt even that <hi>Guilt,</hi> where the perfideous Slave</l>
+               <l>Betray'd his <hi>GOD</hi> and <hi>Maſter</hi> to a <hi>Grave.</hi>
+               </l>
+               <l>Was <hi>Inſtrumental</hi> a <hi>whole World</hi> to ſave.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This may be Printed,</p>
+            <closer>
+               <date>July 16. 1685.</date> 
+               <signed>R. L. S.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>C. W.</hi> and are to be ſold by <hi>Walter Davis</hi> in <hi>Amen-Corner.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
